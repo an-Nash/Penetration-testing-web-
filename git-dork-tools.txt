@@ -1,0 +1,17 @@
+git:
+	trufflehog
+	gittyleaks
+	git-hounds
+	git-secret
+	repo-security-scanner
+dork:
+	pagodo
+	googler
+	sitedigger
+	metagoofil
+	searchDiggity
+	secpoint google hack db
+	gooscan
+
+ssl/tls vulnerability scanner:
+	testssl.sh	
